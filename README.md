@@ -1,2 +1,2 @@
 # hash-search-test
-Test for speed in set matching using sets
+Test for speed in hash matching using sets
